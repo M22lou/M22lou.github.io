@@ -1,0 +1,71 @@
+h1 {text-align: center;
+	color: #ffffff;
+	font-family: monospace;
+	font-weight: bold;
+	font-size: 55px;}
+	
+h6 {text-align: right;}
+
+a {	text-decoration: blue;
+	color: blue;
+	text-decoration: underline;}
+
+h4 {font-weight: normal;}
+
+.image {float: left;
+		width: 130px;
+		height: 100px;}
+
+.image2 {float: left;
+		width: 100px;
+		height: 100px;}
+
+.image3 {float: left;
+		width: 100px;
+		height: 100px;}
+
+.image4 {float: left;
+		width: 100px;
+		height: 80px;}
+
+.image5 {float: left;
+		width: 100px;
+		height: 80px;}
+
+.image6 {float: left;
+		width: 100px;
+		height: 80px;}
+
+.image7 {float: left;
+		width: 100px;
+		height: 60px;}
+
+.image8 {float: left;
+		width: 100px;
+		height: 80px;}
+
+.image9 {float: left;
+		width: 100px;
+		height: 80px;}
+
+.image10 {float: left;
+		width: 100px;
+		height: 80px;}
+
+.image11 {float: left;
+		width: 100px;
+		height: 80px;}
+
+.image12 {float: left;
+		width: 100px;
+		height: 80px;}
+
+.image13 {float: left;
+		width: 100px;
+		height: 100px;}
+		
+.image14 {float: left;
+		width: 100px;
+		height: 110px;}
+
+body{background-image :url("image3.jpg");}

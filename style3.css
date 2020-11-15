@@ -1,0 +1,21 @@
+h1 {text-align: center;
+	color: #ffffff;
+	font-family: monospace;
+	font-weight: bold;
+	font-size: 55px;}
+
+p { text-align: left;
+	font-weight: bold;
+	font-size: 18px}
+
+h2 {color: #c40c2e;}
+
+h3 {color: #b30727;}
+
+h6 {text-align: right;}
+
+a {	text-decoration: blue;
+	color: blue;
+	text-decoration: underline;}
+
+body{background-image :url("image3.jpg");}
